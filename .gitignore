@@ -1,3 +1,4 @@
 /target
 *.lock
 compile_commands.json
+*.vim
