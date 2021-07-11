@@ -4,5 +4,5 @@ fn main() {
 
 fn add(lhs: f64, rhs: f64) -> f64
 {
-    return lhs + rhs;
+    lhs + rhs
 }
